@@ -11,7 +11,7 @@ Phase 2:
 - my answer is "we can deploy a lot of ether in liquidity pool or the cisla developers from bsc will buy the ether so the price getting boost
 
 - question 2 "hey what if they transfer cisla from bsc to eth but the price is different would be the market will be affected?
-- my answer is "No, if they tranfer 1k usd worth of cisla from bsc they're gonna get 1k usd worth in eth as well but diffect ammount of token
+- my answer is "No, if they tranfer 1k usd worth of cisla from bsc they're gonna get 1k usd worth in eth as well but different ammount of token
 - after this proceed to phase 3
 
 Phase 3:
