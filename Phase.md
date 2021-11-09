@@ -1,3 +1,6 @@
+
+
+
 Phase 1:
 - deploying the token
 - deploying the staking solidity and sending it to the token / cisla eth contract address
